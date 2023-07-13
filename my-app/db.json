@@ -1,0 +1,1460 @@
+{
+  "mens_Sandlas" : [
+      {
+          "id":1,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/10031-270x315.webp",
+          "price": 599,
+          "brand":"walkmate"
+  },
+  {
+      "id":2,
+      "image":"https://walkmate.co.in/wp-content/uploads/2019/12/415-Black-270x315.webp",
+      "price": 369,
+      "brand":"walkmate"
+},
+{
+  "id":3,
+  "image":"https://walkmate.co.in/wp-content/uploads/2019/12/911-Brown-270x281.webp",
+  "price": 499,
+  "brand":"walkmate"
+},
+  {
+  "id":4,
+  "image":"https://walkmate.co.in/wp-content/uploads/2019/12/911-Brown-270x281.webp",
+  "price": 409,
+  "brand":"walkmate"
+},
+{
+  "id":5,
+  "image":"https://walkmate.co.in/wp-content/uploads/2019/12/150-Grey-270x315.webp",
+  "price": 399,
+  "brand":"walkmate"
+},
+{
+  "id":6,
+  "image":"https://walkmate.co.in/wp-content/uploads/2019/12/907-Mud-270x281.webp",
+  "price": 449,
+  "brand":"walkmate"
+},
+{
+  "id":7,
+  "image":"https://walkmate.co.in/wp-content/uploads/2019/12/912-Tan-270x315.webp",
+  "price": 499,
+  "brand":"walkmate"
+},
+{
+  "id":8,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8755g_gry_1.jpg",
+  "price": 349,
+  "brand":"paragon"
+},
+{
+  "id":9,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8721g_blu_1.jpg",
+  "price": 379,
+  "brand":"paragon"
+},
+{
+  "id":10,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8850g_brown_1_1.jpg",
+  "price": 379,
+  "brand":"paragon"
+},
+{
+  "id":11,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8741g_blu_1.jpg",
+  "price": 389,
+  "brand":"paragon"
+},
+{
+  "id":12,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8885g_brown_1.jpg",
+  "price": 399,
+  "brand":"paragon"
+},
+{
+  "id":13,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/v/pv0400g_green_1.jpg",
+  "price": 429,
+  "brand":"paragon"
+},
+{
+  "id":14,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8805g_black_1_1.jpg",
+  "price": 429,
+  "brand":"paragon"
+},
+{
+  "id":15,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8805g_mustard_1_1.jpg",
+  "price": 499,
+  "brand":"paragon"
+},
+{
+  "id":16,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/f/b/fb9050g_beige_1_1.jpg",
+  "price": 639,
+  "brand":"paragon"
+},
+{
+  "id":17,
+  "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/f/b/fb99904gp_olg_1_1.jpg",
+  "price": 729,
+  "brand":"paragon"
+},
+{
+  "id":18,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4378-grey_black_1__6.jpg",
+  "price": 669,
+  "brand":"walkaroo"
+},
+{
+  "id":19,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4308-nbor_1__5_1.jpg",
+  "price": 559,
+  "brand":"walkaroo"
+},
+{
+  "id":20,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5715_black_6__5_1.jpg",
+  "price": 449,
+  "brand":"walkaroo"
+},
+{
+  "id":21,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/x/c/xc4671-blue_6__1_5.jpg",
+  "price": 699,
+  "brand":"walkaroo"
+},
+{
+  "id":22,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4362-navy_blue_yellow_1__5_1.jpg",
+  "price": 649,
+  "brand":"walkaroo"
+},
+{
+  "id":23,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/g/g/gg8408-black_grey_1__5.jpg",
+  "price": 349,
+  "brand":"walkaroo"
+},
+{
+  "id":24,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5754-blue_1__5.jpg",
+  "price": 379,
+  "brand":"walkaroo"
+},
+{
+  "id":25,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5713-tan_1__1_6.jpg",
+  "price": 479,
+  "brand":"walkaroo"
+},
+{
+  "id":26,
+  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5751-tan_1__5.jpg",
+  "price": 579,
+  "brand":"walkaroo"
+},
+{
+    "id":27,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SS-624-BMGO-1.jpg",
+    "price": 1049,
+    "brand":"Spark"
+  },{
+    "id":28,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/FL-2020-NVWH-1.jpg",
+    "price": 549,
+    "brand":"Spark"
+  },{
+    "id":29,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SS-615-BKOM-1.jpg",
+    "price": 1399,
+    "brand":"Spark"
+  },{
+    "id":30,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/images/product/image/ss-119-nbrd-(1)-1664019884.jpg",
+    "price": 649,
+    "brand":"Spark"
+  },
+  {
+    "id":31,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/images/product/image/ss-713-clbr-1-1617629113.jpg",
+    "price": 749,
+    "brand":"Spark"
+  },
+  {
+    "id":32,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SS-582-NBRD-1.jpg",
+    "price": 649,
+    "brand":"Spark"
+  }
+ 
+ 
+   ],
+
+   "mens_chappal":   [
+    {
+        "id":1,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/e/we1328-black_1__1_5.jpg",
+        "price": 499,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":2,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5434-tan_1__2.jpg",
+        "price": 329,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":3,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5412-tan_1__5.jpg",
+        "price": 469,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":4,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5305-blue_7__1_1.jpg",
+        "price": 389,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":5,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4808-blue_1__5.jpg",
+        "price": 329,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":6,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/5/w5687-tan_6__2.jpg",
+        "price": 369,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":7,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4805-turshq-navy-blue_5_1.jpg",
+        "price": 229,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":8,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/g/g/gg8217-tan_1_2.jpg",
+        "price": 349,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":9,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/x/bx2618-brown_6__2.jpg",
+        "price": 309,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":10,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt1302-blue_1__5.jpg",
+        "price": 329,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":11,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5340-blue_1__5.jpg",
+        "price": 289,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":12,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5334-tan_1__5.jpg",
+        "price": 349,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":13,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5306_brown-_5__6.jpg",
+        "price": 429,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":14,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5309-tan_1__5_1.jpg",
+        "price": 449,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":15,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/1/3/13350-brown_1__4.jpg",
+        "price": 289,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":16,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5301-black_1__5.jpg",
+        "price": 399,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":17,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/1/3/13322-black_1__2_3.jpg",
+        "price": 339,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":18,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6705g_green_1_1.jpg",
+        "price": 229,
+        "brand":"Paragon"
+    },
+    {
+        "id":19,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6717g_red_1_1.jpg",
+        "price": 319,
+        "brand":"Paragon"
+    },
+    {
+        "id":20,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6685g_black_1_1.jpg",
+        "price": 349,
+        "brand":"Paragon"
+    },
+    {
+        "id":21,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6775g_black_1.jpg",
+        "price": 229,
+        "brand":"Paragon"
+    },
+    {
+        "id":22,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6251g_brn_1.jpg",
+        "price": 339,
+        "brand":"Paragon"
+    },
+    {
+        "id":23,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6670g_black_1.jpg",
+        "price": 339,
+        "brand":"Paragon"
+    },
+    {
+        "id":24,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6815g_black_1.jpg",
+        "price": 349,
+        "brand":"Paragon"
+    },
+    {
+        "id":25,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6830g_brown_1.jpg",
+        "price": 349,
+        "brand":"Paragon"
+    },
+    {
+        "id":26,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6729g_tan_1_1.jpg",
+        "price": 359,
+        "brand":"Paragon"
+    },
+    {
+        "id":27,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu6225g_1.jpg",
+        "price": 359,
+        "brand":"Paragon"
+    },
+    {
+        "id":28,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6666g_black_1_1.jpg",
+        "price": 359,
+        "brand":"Paragon"
+    },
+    {
+        "id":29,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6790g_black_1_1.jpg",
+        "price": 359,
+        "brand":"Paragon"
+    },
+    {
+        "id":30,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu66087gbrn_1.jpg",
+        "price": 369,
+        "brand":"Paragon"
+    },
+    {
+        "id":31,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu6220gtan00009g349_1.jpg",
+        "price": 369,
+        "brand":"Paragon"
+    },
+    {
+        "id":32,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6662g_black_1.jpg",
+        "price": 369,
+        "brand":"Paragon"
+    },
+    {
+        "id":33,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu6901gblk00008g339_1.jpg",
+        "price": 399,
+        "brand":"Paragon"
+    },
+    {
+        "id":34,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6660g_black_1_1.jpg",
+        "price": 379,
+        "brand":"Paragon"
+    },
+    {
+        "id":35,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu6758g_mustard_1.jpg",
+        "price": 429,
+        "brand":"Paragon"
+    },
+    {
+        "id":36,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu66426gp_blk_1.jpg",
+        "price": 659,
+        "brand":"Paragon"
+    },
+    {
+        "id":37,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/255-Brown-270x315.webp",
+        "price": 379,
+        "brand":"Walkmate"
+    },
+    {
+        "id":38,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/253-Tan-270x315.webp",
+        "price": 379,
+        "brand":"Walkmate"
+    },
+    {
+        "id":39,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/617-Black-270x315.webp",
+        "price": 309,
+        "brand":"Walkmate"
+    },
+    {
+        "id":40,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/5001-Black-270x315.webp",
+        "price": 349,
+        "brand":"Walkmate"
+    },
+    {
+        "id":41,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/5005-Tan-270x315.webp",
+        "price": 349,
+        "brand":"Walkmate"
+    },
+    {
+        "id":42,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/5004-Brown-270x315.webp",
+        "price": 339,
+        "brand":"Walkmate"
+    },
+    {
+        "id":43,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/614-Black-270x315.webp",
+        "price": 349,
+        "brand":"Walkmate"
+    },
+    {
+        "id":44,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/1018-Brown-270x315.webp",
+        "price": 459,
+        "brand":"Walkmate"
+    },
+    {
+        "id":45,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/254-270x315.webp",
+        "price": 369,
+        "brand":"Walkmate"
+    },
+    {
+        "id":46,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/5009-270x315.webp",
+        "price": 349,
+        "brand":"Walkmate"
+    },
+    {
+        "id":47,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/419-Brown-270x315.webp",
+        "price": 359,
+        "brand":"Walkmate"
+    },
+    {
+        "id":48,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/620-Black-270x315.webp",
+        "price": 329,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":50,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/6051-1-270x315.webp",
+        "price": 309,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":51,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/2031-Tan-270x315.webp",
+        "price": 459,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":52,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/408-270x315.webp",
+        "price": 369,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":53,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/951-Tan-270x315.webp",
+        "price": 329,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":54,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/612-Black-270x315.webp",
+        "price": 359,
+        "brand":"Walkmate"
+    },
+  
+    {
+        "id":55,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-3062-Black-Gents_1.jpg",
+        "price": 359,
+        "brand":"Vkc_Pride"
+    },
+    {
+        "id":56,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-3062-Black-Gents_1.jpg",
+        "price": 329,
+        "brand":"Vkc_Pride"
+    },
+    {
+        "id":57,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-3087-Navy%20Blue-Gents_1.jpg",
+        "price": 339,
+        "brand":"Vkc_Pride"
+    },
+    {
+        "id":58,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-3689-Black-Gents_1.jpg",
+        "price": 389,
+        "brand":"Vkc_Pride"
+    }
+   ],
+
+    "mens_shoes": [
+{
+    "id":1,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws9543-grey_1__5.jpg",
+    "price": 749,
+    "brand":"Walkaroo"
+},
+{
+    "id":2,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3064-teal_edit_scratch_1__5.jpg",
+    "price": 679,
+    "brand":"Walkaroo"
+},
+{
+    "id":3,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws9548-black_1__5.jpg",
+    "price": 799,
+    "brand":"Walkaroo"
+},
+{
+    "id":4,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/y/wy3335-white_grey_1__5.jpg",
+    "price": 629,
+    "brand":"Walkaroo"
+},
+{
+    "id":5,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/x/s/xs3223-grey_1__6.jpg",
+    "price": 769,
+    "brand":"Walkaroo"
+},
+{
+    "id":7,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/x/s/xs9770-navy_blue_edit_bend_1__5.jpg",
+    "price": 749,
+    "brand":"Walkaroo"
+},
+{
+    "id":8,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/x/s/xs9757-grey_1__4.jpg",
+    "price": 999,
+    "brand":"Walkaroo"
+},
+{
+    "id":9,
+    "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3050-navy_blue_1__6.jpg",
+    "price": 669,
+    "brand":"Walkaroo"
+},
+{
+    "id":10,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/puk3501gs_blk_1.jpg",
+    "price": 749,
+    "brand":"Paragon"
+},
+{
+    "id":11,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/f/b/fb99854gp_blo_1.jpg",
+    "price": 809,
+    "brand":"Paragon"
+},
+{
+    "id":12,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1r11110gwht00006g989_1.jpg",
+    "price": 499,
+    "brand":"Paragon"
+},
+{
+    "id":13,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1fb9550gpbrn00010g499_1.jpg",
+    "price": 699,
+    "brand":"Paragon"
+},
+{
+    "id":14,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/f/b/fb9549-brown_1.jpg",
+    "price": 699,
+    "brand":"Paragon"
+},
+{
+    "id":15,
+    "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1r11210gblk00007g1499_1.jpg",
+    "price": 749,
+    "brand":"Paragon"
+},
+{
+    "id":16,
+    "image":"https://walkmate.co.in/wp-content/uploads/2021/10/15004-black-270x315.webp",
+    "price": 679,
+    "brand":"Walkmate"
+},
+{
+    "id":17,
+    "image":"https://walkmate.co.in/wp-content/uploads/2021/10/15001-Tan-270x315.webp",
+    "price": 699,
+    "brand":"Walkmate"
+},
+{
+    "id":18,
+    "image":"https://walkmate.co.in/wp-content/uploads/2021/10/15002-Tan-270x315.webp",
+    "price": 699,
+    "brand":"Walkmate"
+},
+{
+    "id":19,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/product-image/SM-671-OLMR-1.jpg",
+    "price": 1099,
+    "brand":"Spark"
+},
+{
+    "id":20,
+    "image":"https://dxkvlfvncvqr8.cloudfront.net/media/images/product/image/sm-690-bktn-1630398748.jpg",
+    "price": 1120,
+    "brand":"Spark"
+}
+   ],
+
+
+
+  "womans_shoes":[
+    {
+        "id":20,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu0088lptan00008g279_1.jpg",
+        "price": 279,
+        "brand":"Paragon"
+    },
+    {
+        "id":20,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu2329lblu00008g269_1.jpg",
+        "price": 269,
+        "brand":"Paragon"
+    },
+    {
+        "id":20,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/k/1/k1009l-trq_1.jpg",
+        "price": 467,
+        "brand":"Paragon"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4945-peach_1__6.jpg",
+        "price": 389,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/c/wc4943-peach_1__5.jpg",
+        "price": 369,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/1/6/16804-black_6__6.jpg",
+        "price": 449,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3258-rust_1__5.jpg",
+        "price": 679,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/x/s/xs9830-maroon_1__4.jpg",
+        "price": 849,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/13000-Black-270x315.webp",
+        "price": 329,
+        "brand":"Walkmate"
+    } 
+  ],
+
+   "women_sandlas":[
+      {
+          "id":1,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2724-peach_1__4.jpg",
+          "price": 399,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":2,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7800-mint_1__6.jpg",
+          "price": 359,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":3,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2730-m_blue_1__7.jpg",
+          "price": 369,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":4,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7814-mint_1__6.jpg",
+          "price": 359,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":5,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7815-fig_1__6.jpg",
+          "price": 369,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":6,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7828-fig_1__6.jpg",
+          "price": 309,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":7,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7830-m_blue_1__6.jpg",
+          "price": 369,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":8,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2702-peach_5__1_5.jpg",
+          "price": 299,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":9,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7752-black-peach_6__5.jpg",
+          "price": 309,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":10,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2714-black_1__5.jpg",
+          "price": 379,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":11,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7795-peach_1__5_1.jpg",
+          "price": 379,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":12,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2715-mint_1__4.jpg",
+          "price": 369,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":13,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7820-fig_1__6.jpg",
+          "price": 319,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":14,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2717-grey_1__5.jpg",
+          "price": 399,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":15,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2712-grey_1__3.jpg",
+          "price": 379,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":16,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7792--m-blue_1__2.jpg",
+          "price": 299,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":17,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/8344-270x315.webp",
+          "price": 359,
+          "brand":"Walkmate"
+      },
+      {
+          "id":18,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/8406-Black-270x315.webp",
+          "price": 399,   
+          "brand":"Walkmate"
+      },
+      {
+          "id":19,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/9403-Grey-270x315.webp",
+          "price": 329,
+          "brand":"Walkmate"
+      },
+      {
+          "id":20,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/9406-Grey-270x315.webp",
+          "price": 299,
+          "brand":"Walkmate"
+      },
+      {
+          "id":21,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/ezgif.com-gif-maker-4-270x315.webp",
+          "price": 289,
+          "brand":"Walkmate"
+      },
+      {
+          "id":22,
+          "image":"https://walkmate.co.in/wp-content/uploads/2019/12/8342-270x315.webp",
+          "price": 379,
+          "brand":"Walkmate"
+      },
+      {
+          "id":23,
+          "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1648-Tan-Ladies_1.jpg",
+          "price": 346,
+          "brand":"Vkc_Pride"
+      }
+   ],
+
+   "women_chappal": [
+    {
+        "id":1,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/855-Grey-270x315.webp",
+        "price": 299,
+        "brand":"Walkmate"
+    },
+    {
+        "id":2,
+        "image":"https://walkmate.co.in/wp-content/uploads/2022/01/ezgif.com-gif-maker-5-270x315.webp",
+        "price": 269,
+        "brand":"Walkmate"
+    },
+    {
+        "id":3,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/656-Black-270x315.webp",
+        "price": 279,
+        "brand":"Walkmate"
+    },
+    {
+        "id":4,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/758-Blue-270x315.webp",
+        "price":269 ,
+        "brand":"Walkmate"
+    },
+    {
+        "id":5,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/852-BK-270x315.webp",
+        "price": 289,
+        "brand":"Walkmate"
+    },
+    {
+        "id":6,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/75-Blue-270x281.webp",
+        "price": 309,
+        "brand":"Walkmate"
+    },
+    {
+        "id":7,
+        "image":"https://walkmate.co.in/wp-content/uploads/2022/01/652-blue-1-270x315.webp",
+        "price": 299,
+        "brand":"Walkmate"
+    },
+    {
+        "id":8,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/804-Grey-270x315.webp",
+        "price": 269,
+        "brand":"Walkmate"
+    },
+    {
+        "id":9,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/854-270x315.webp",
+        "price": 299,
+        "brand":"Walkmate"
+    },
+    {
+        "id":10,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/6514-270x315.webp",
+        "price": 299,
+        "brand":"Walkmate"
+    },
+    {
+        "id":11,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/760-270x315.webp",
+        "price": 279,
+        "brand":"Walkmate"
+    },
+    {
+        "id":12,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/653-Grey-1-270x315.webp",
+        "price": 339,
+        "brand":"Walkmate"
+    },
+    {
+        "id":13,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/853-Grey-270x315.webp",
+        "price": 299,
+        "brand":"Walkmate"
+    },
+    {
+        "id":14,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7113-grape_1__7.jpg",
+        "price": 309,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":15,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2348-fig_1__4.jpg",
+        "price": 389,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":16,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2347-teal_blue_1__7.jpg",
+        "price": 319,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":17,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2347-teal_blue_1__7.jpg",
+        "price": 339,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":18,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7460-m_blue_1__5.jpg",
+        "price": 369,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":19,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2336-fig_1__5.jpg",
+        "price": 449,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":20,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2015-s_tan_1__6.jpg",
+        "price": 339,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":21,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7472-mint_1__4.jpg",
+        "price": 369,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":22,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7091-m-blue_1__4.jpg",
+        "price": 249,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":23,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/017-black_1__1_2.jpg",
+        "price": 124,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":24,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2325-mint_1__5_1.jpg",
+        "price": 389,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":25,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7435-copper_1__5.jpg",
+        "price": 319,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":26,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7425-m-blue_1__6.jpg",
+        "price": 309,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":27,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7420-peach_1__4.jpg",
+        "price": 299,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":28,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7394-fig_1__1_4.jpg",
+        "price": 309,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":29,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7084-maroon_1__5_1.jpg",
+        "price": 319,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":30,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2320-mint_1__1_5.jpg",
+        "price": 359,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":31,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2012-navy-blue_1__5_1.jpg",
+        "price": 339,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":32,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2013-mint_1__3.jpg",
+        "price": 379,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":33,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7433-mint_1__4_1.jpg",
+        "price": 274,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":34,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/2/9/29.06.2022_1_1_5.jpg",
+        "price": 299,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":35,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2324-mint_1__2.jpg",
+        "price": 339,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":36,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7415-grey_green_1__5_1.jpg",
+        "price": 349,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":37,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1452.jpg",
+        "price": 309,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":38,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2304-grey_black_6__5.jpg",
+        "price": 344,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":39,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7051-fg-brown_1__3.jpg",
+        "price": 369,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":40,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2303-grey_1__6.jpg",
+        "price": 259,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":41,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7364-mint-white_2_2.jpg",
+        "price": 259,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":42,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/h/wh3951-navy_blue_1__7_1.jpg",
+        "price": 259,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":43,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/h/2/h252_cbrn_1__2_1.jpg",
+        "price": 179,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":44,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu7941l_black_1.jpg",
+        "price": 169,
+        "brand":"Paragon"
+    },
+    {
+        "id":45,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu7923l_black_1.jpg",
+        "price": 269,
+        "brand":"Paragon"
+    },
+    {
+        "id":46,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu7097l_maroon_1_1.jpg",
+        "price": 309,
+        "brand":"Paragon"
+    },
+    {
+        "id":47,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1379-Grey-Ladies_1.jpg",
+        "price": 299,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":48,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1376-Brown-Ladies_1.jpg",
+        "price": 349,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":49,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1374-Grey-Ladies_1.jpg",
+        "price": 289,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":50,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1367-Blue-Ladies_1.jpg",
+        "price": 319,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":51,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1366-Maroon-Ladies_1.jpg",
+        "price": 219,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":52,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1364-Peach-Ladies_1.jpg",
+        "price": 299,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":53,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1344-Green-Ladies_1.jpg",
+        "price": 329,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":54,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1333-Blue-Ladies_1.jpg",
+        "price": 326,
+        "brand":"Vkv_Pride"
+    },
+    {
+        "id":55,
+        "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1311-Blue-Ladies_1.jpg",
+        "price": 259,
+        "brand":"Vkv_Pride"
+    }
+   ],
+
+
+
+   
+   "kids_boys_sandals": [
+      {
+          "id":1,
+          "image":"https://walkmate.co.in/wp-content/uploads/2021/10/1050-Blue-270x315.webp",
+          "price": 299,
+          "brand":"Walkmate"
+      },
+      {
+          "id":2,
+          "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pu8850kmar00011g229_1.jpg",
+          "price": 279,
+          "brand":"Paragon"
+      },
+      {
+          "id":3,
+          "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pv0400bgrn00005g299_1.jpg",
+          "price": 364,
+          "brand":"Paragon"
+      },
+      {
+          "id":4,
+          "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8885bbrn_1.jpg",
+          "price": 379,
+          "brand":"Paragon"
+      },
+      {
+          "id":5,
+          "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu8885bbrn_1.jpg",
+          "price": 589,
+          "brand":"Paragon"
+      },
+      {
+          "id":6,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/k/wk627-black-green_1__6.jpg",
+          "price": 349,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":7,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1340.jpg",
+          "price": 279,
+          "brand":"Walkaroo"
+      },
+      {
+          "id":8,
+          "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/k/wk795-black-grey_1__1_5.jpg",
+          "price": 224,
+          "brand":"Walkaroo"
+      } 
+   ],
+   "kids_boys_shoes":[
+    {
+        "id":1,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1hw0602kpred00006g259_2.jpg",
+        "price": 199,
+        "brand":"Paragon"
+    },
+    {
+        "id":2,
+        "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/a/1/a1pv2704cpnyb00018g174_1.jpg",
+        "price": 199,
+        "brand":"Paragon"
+    },
+    {
+        "id":3,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3008-navy-blue-_1__5.jpg",
+        "price": 559,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":4,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3052-navy_blue_boys_1__5.jpg",
+        "price": 429,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":5,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/s/ws3054-navy_blue_red-boys_1__6.jpg",
+        "price": 459,
+        "brand":"Walkaroo"
+    }
+
+   
+   ],
+   "kids_boys_chppal": [
+    {
+        "id":1,
+        "image":"https://walkmate.co.in/wp-content/uploads/2021/10/47-Blue-270x315.webp",
+        "price": 259,
+        "brand":"Walkmate"
+    },
+    {
+        "id":2,
+        "image":"https://walkmate.co.in/wp-content/uploads/2019/12/1062-270x315.webp",
+        "price": 269,
+        "brand":"Walkmate"
+    },
+    {
+        "id":3,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/g/wg5005-blue-green-kids_1__6.jpg",
+        "price": 209,
+        "brand":"Walkaroo"
+    },
+    {
+        "id":4,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/fe09ee07bdc59522da4507d48ef95c81/x/k/xk803-yellow-grey_1_1.jpg",
+        "price": 259,
+        "brand":"Walkaroo"
+    }
+   ],
+
+  
+
+
+  "kids_girls_sandals":[
+              {
+                  "id":1,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2714-blue-girls_1__1_2_1.jpg",
+                  "price": 359,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":2,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7820-m_blue_1__4.jpg",
+                  "price": 269,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":3,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7800-navy-blue-girls_1__3.jpg",
+                  "price": 319,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":4,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7752-blue-tan_6__4_1.jpg",
+                  "price": 274,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":5,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2702_blue_6__4.jpg",
+                  "price": 254,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":6,
+                  "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7788-green-girls_1__1_3.jpg",
+                  "price": 319,
+                  "brand":"Walkaroo"
+              },
+              {
+                  "id":7,
+                  "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1648-Tan-Ladies_1.jpg",
+                  "price": 346,
+                  "brand":"Vkc_Pride"
+              }
+          ],
+ "kids_girls_chppal":[
+  {
+      "id":1,
+      "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7394-fig_1__1_4.jpg",
+      "price": 259,
+      "brand":"Walkaroo"   
+  },
+  {
+      "id":2,
+      "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/b/t/bt2320-mint_1__1_5.jpg",
+      "price": 299,
+      "brand":"Walkaroo"   
+  },
+  {
+      "id":3,
+      "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1452.jpg",
+      "price": 259,
+      "brand":"Walkaroo"   
+  },
+  {
+      "id":4,
+      "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/l/wl7415-grey_green_1__5_1.jpg",
+      "price": 279,
+      "brand":"Walkaroo"   
+  },
+  {
+      "id":5,
+      "image":"https://staticm2.paragonfootwear.com/media/catalog/product/cache/5074d18cfdcf25b731fc457aa81f59f8/p/u/pu7950l_purple_1.jpg",
+      "price": 149,
+      "brand":"Walkaroo"   
+  },
+  {
+      "id":6,
+      "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1382-Pink-Kids_1.jpg",
+      "price": 249,
+      "brand":"Vkc_Pride"   
+  },
+  {
+      "id":7,
+      "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1387-Blue%20Berry-Kids_1.jpg",
+      "price": 219,
+      "brand":"Vkc_Pride"   
+  },
+  {
+      "id":8,
+      "image":"http://vkcparivar.com/uploads/catlog/product/VKC%20Pride-LP1311-Blue-Ladies_1.jpg",
+      "price": 259,
+      "brand":"Vkc_Pride"  
+  }
+      
+ ],
+ "kids_girls_shoes":[
+    {
+        "id":1,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/1/8/18536-navy_blue_1__7.jpg",
+        "price": 209,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":2,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/k/wk348-pink-kids_1__8.jpg",
+        "price": 239,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":3,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1239.jpg",
+        "price": 259,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":4,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1476.jpg",
+        "price": 309,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":5,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/0/1/01_1476.jpg",
+        "price": 239,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":6,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/5/7/571-red_13.jpg",
+        "price": 199,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":7,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/k/wk338-dgry_1__10.jpg",
+        "price": 379,
+        "brand":"Walkaroo"   
+    },
+    {
+        "id":9,
+        "image":"https://www.walkaroo.in/pub/media/catalog/product/cache/5ad6a3835249edf07dc7d4f20dcaa96b/w/k/wk322-teal-kids_1__4.jpg",
+        "price": 419,
+        "brand":"Walkaroo"   
+    }
+ ]
+       
+}

@@ -1,0 +1,185 @@
+#loading{
+    text-align: center;
+    margin: auto;
+}
+
+
+#mainChappalDiv{
+    margin: auto;
+     /* border: solid red 1px;  */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(200px);
+    gap: 30px;
+    width: 90%;
+    margin-top: 30px;
+    
+}
+
+.mainChappalInnerViv{
+    /* border: solid black 1px; */
+    border-radius: 8px;
+    height: 600px;
+    margin-top: 15px;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+
+
+.mainChappalInnerViv img{
+    /* border: solid green 1px; */
+    width: 85%;
+    height: 70%;
+    margin-top: 18px;
+    border-radius: 8px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+
+
+
+/* Responsive Styles */
+@media only screen and (max-width: 768px) {
+    #mainChappalDiv {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .mainChappalInnerViv {
+        height: auto;
+    }
+
+    .mainChappalInnerViv img {
+        width: 80%;
+        height: 130px;
+         /* border: solid red 1px;  */
+    }
+ 
+}
+
+@media only screen and (max-width: 480px) {
+    #mainChappalDiv {
+        grid-template-columns: repeat(2,1fr);
+        gap: 20px;
+    } 
+    .mainChappalInnerViv{
+      height: 310px;
+    } 
+}
+
+
+/* ------MensSandal BUtton CSS ------- */
+.mainButton{
+    margin: auto;
+    width: 220px;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+
+/* CSS */
+.button-5 {
+  align-items: center;
+  background-clip: padding-box;
+  background-color: #fa6400;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: auto;
+}
+
+.button-5:hover,
+.button-5:focus {
+  background-color: #fb8332;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
+}
+
+.button-5:hover {
+  transform: translateY(-1px);
+}
+
+.button-5:active {
+  background-color: #c85000;
+  box-shadow: rgba(0, 0, 0, .06) 0 2px 4px;
+  transform: translateY(0);
+}
+
+
+
+
+
+/* Loading indicator */
+.loader,
+.loader:after {
+  border-radius: 50%;
+  width: 10em;
+  height: 10em;
+}
+.loader {
+  margin: 60px auto;
+  font-size: 10px;
+  position: relative;
+  text-indent: -9999em;
+  border-top: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-right: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-bottom: 1.1em solid rgba(255, 255, 255, 0.2);
+  border-left: 1.1em solid #0DC5C1;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load8 1.1s infinite linear;
+  animation: load8 1.1s infinite linear;
+}
+@-webkit-keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load8 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+
+/* --------------- */
+#app{
+  margin: auto;
+  /* border: solid red 1px; */
+  width: 60px;
+  margin-top: -15px;
+}
+#app img{
+  /* border: solid black 1px; */
+ height: 40px;
+ width: 40px;
+}
