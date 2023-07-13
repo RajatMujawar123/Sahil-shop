@@ -4,6 +4,7 @@ import "../../../style/mensChappal.css"
 import { shallowEqual, useDispatch, useSelector } from 'react-redux'
 import { mens_Shoes_Get_FailureAction, mens_Shoes_Get_RequestAction, mens_Shoes_Get_SuccessAction } from '../../../Redux/Mens/action'
 import Pagination from '../../../Company/Pagination'
+import whatsApp from "../../../img/icons8-whatsapp-48.png"
 
 
  const MenShoes = () => {
@@ -20,7 +21,7 @@ import Pagination from '../../../Company/Pagination'
 
   const getShoes = ()=>{
     dispatch(mens_Shoes_Get_RequestAction())
-    axios.get(`http://localhost:8000/mens_chappal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/mens_shoes`).then((res)=>{
       //console.log(res.data)
       dispatch(mens_Shoes_Get_SuccessAction(res.data))
     }).catch((err)=>{
@@ -51,7 +52,8 @@ import Pagination from '../../../Company/Pagination'
          return   <div className='mainChappalInnerViv' key={el.id}> 
                 <img src={el.image} alt="" />
                   <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>           
+                  <p>{`Price : ${el.price}`}</p>    
+                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>       
             </div>       
       })
     }

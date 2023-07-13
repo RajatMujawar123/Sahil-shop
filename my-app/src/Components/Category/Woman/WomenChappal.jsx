@@ -4,6 +4,8 @@ import { shallowEqual, useDispatch, useSelector } from 'react-redux'
 import { womensChappalGetFailureAction, womensChappalGetRequestAction, womensChappalGetSuccessAction } from '../../../Redux/Womens/action'
 import "../../../style/mensChappal.css"
 import Pagination from '../../../Company/Pagination'
+import whatsApp from "../../../img/icons8-whatsapp-48.png"
+
 
 const WomenChappal = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -19,7 +21,7 @@ const WomenChappal = () => {
 
   const getChappal = ()=>{
     dispatch(womensChappalGetRequestAction())
-    axios.get(`http://localhost:8000/women_chappal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/women_chappal`).then((res)=>{
       //console.log(res.data)
       dispatch(womensChappalGetSuccessAction(res.data))
     }).catch((err)=>{
@@ -51,7 +53,8 @@ const WomenChappal = () => {
          return   <div className='mainChappalInnerViv' key={el.id}> 
                 <img src={el.image} alt="" />
                   <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>           
+                  <p>{`Price : ${el.price}`}</p>   
+                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>        
             </div>       
       })
     }

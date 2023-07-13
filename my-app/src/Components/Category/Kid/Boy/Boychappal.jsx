@@ -5,6 +5,7 @@ import { shallowEqual, useDispatch, useSelector } from 'react-redux'
 import axios from 'axios'
 import { boysGetFailureAction, boysGetRequestAction, boysGetSuccessAction } from '../../../../Redux/Kids/action';
 import "../../../../style/mensChappal.css"
+import whatsApp from "../../../../img/icons8-whatsapp-48.png"
 
 const Boychappal = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -19,7 +20,7 @@ const Boychappal = () => {
 
   const getChappal = ()=>{
     dispatch(boysGetRequestAction())
-    axios.get(`http://localhost:8000/kids_boys_chppal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/kids_boys_chppal`).then((res)=>{
      // console.log(res.data)
       dispatch(boysGetSuccessAction(res.data))
     }).catch((err)=>{
@@ -51,7 +52,8 @@ const Boychappal = () => {
       return   <div className='mainChappalInnerViv' key={el.id}> 
              <img src={el.image} alt="" />
                <h4>{`Brand : ${el.brand}`}</h4>
-               <p>{`Price : ${el.price}`}</p>           
+               <p>{`Price : ${el.price}`}</p>  
+               <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>         
          </div>       
    })
     }

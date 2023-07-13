@@ -4,6 +4,7 @@ import { mensGetFailureAction, mensSandalGetRequestAction, mensSandalGetSuccessA
 import axios from 'axios'
 import "../../../style/mensChappal.css"
 import Pagination from '../../../Company/Pagination'
+import whatsApp from "../../../img/icons8-whatsapp-48.png"
 
  const MenSandle = () => {
   
@@ -22,7 +23,7 @@ import Pagination from '../../../Company/Pagination'
 
   const getSandal = ()=>{
     dispatch(mensSandalGetRequestAction())
-    axios.get(`http://localhost:8000/mens_Sandlas`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/mens_Sandlas`).then((res)=>{
       console.log(res.data)
       dispatch(mensSandalGetSuccessAction(res.data))
     }).catch((err)=>{
@@ -56,7 +57,8 @@ import Pagination from '../../../Company/Pagination'
          return   <div className='mainChappalInnerViv' key={el.id}> 
                 <img src={el.image} alt="" />
                   <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>           
+                  <p>{`Price : ${el.price}`}</p>  
+                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>         
             </div>       
       })
     }

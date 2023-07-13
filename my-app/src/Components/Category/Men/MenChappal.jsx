@@ -4,8 +4,6 @@ import { mensGetFailureAction, mensGetRequestAction, mensGetSuccessAction } from
 import axios from 'axios'
 import "../../../style/mensChappal.css"
 import whatsApp from "../../../img/icons8-whatsapp-48.png"
-
-
 import Pagination from '../../../Company/Pagination'
 
  const MenChappal = () => {
@@ -21,7 +19,7 @@ import Pagination from '../../../Company/Pagination'
 
   const getChappal = ()=>{
     dispatch(mensGetRequestAction())
-    axios.get(`http://localhost:8000/mens_chappal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/mens_chappal`).then((res)=>{
       //console.log(res.data)
       dispatch(mensGetSuccessAction(res.data))
     }).catch((err)=>{

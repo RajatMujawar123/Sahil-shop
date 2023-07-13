@@ -3,6 +3,7 @@ import Pagination from '../../../../Company/Pagination';
 import axios from 'axios';
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 import { boys_Shoes_Get_FailureAction, boys_Shoes_Get_RequestAction, boys_Shoes_Get_SuccessAction } from '../../../../Redux/Kids/action';
+import whatsApp from "../../../../img/icons8-whatsapp-48.png"
 
 const Boyshoes = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -17,7 +18,7 @@ const Boyshoes = () => {
 
   const getShoes = ()=>{
     dispatch(boys_Shoes_Get_RequestAction())
-    axios.get(`http://localhost:8000/kids_boys_shoes`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/kids_boys_shoes`).then((res)=>{
       console.log(res.data)
       dispatch(boys_Shoes_Get_SuccessAction(res.data))
     }).catch((err)=>{
@@ -48,7 +49,8 @@ const Boyshoes = () => {
       return   <div className='mainChappalInnerViv' key={el.id}> 
              <img src={el.image} alt="" />
                <h4>{`Brand : ${el.brand}`}</h4>
-               <p>{`Price : ${el.price}`}</p>           
+               <p>{`Price : ${el.price}`}</p>    
+               <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>       
          </div>       
    })
     }

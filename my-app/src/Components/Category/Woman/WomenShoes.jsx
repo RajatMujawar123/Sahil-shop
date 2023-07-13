@@ -4,6 +4,7 @@ import { Womens_Shoes_Get_Failure_Action, Womens_Shoes_Get_Request_Action, Women
 import axios from 'axios'
 import "../../../style/mensChappal.css"
 import Pagination from '../../../Company/Pagination'
+import whatsApp from "../../../img/icons8-whatsapp-48.png"
 
 const WomenShoes = () => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -19,7 +20,7 @@ const WomenShoes = () => {
 
   const getShoes = ()=>{
     dispatch(Womens_Shoes_Get_Request_Action())
-    axios.get(`http://localhost:8000/women_chappal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/womans_shoes`).then((res)=>{
       console.log(res.data)
       dispatch(Womens_Shoes_Get_Success_Action(res.data))
     }).catch((err)=>{
@@ -50,7 +51,8 @@ const WomenShoes = () => {
          return   <div className='mainChappalInnerViv' key={el.id}> 
                 <img src={el.image} alt="" />
                   <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>           
+                  <p>{`Price : ${el.price}`}</p>       
+                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>    
             </div>       
       })
     }

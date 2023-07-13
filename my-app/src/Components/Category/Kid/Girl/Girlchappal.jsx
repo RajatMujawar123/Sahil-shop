@@ -3,6 +3,9 @@ import React, { useEffect, useState } from 'react'
 import { shallowEqual, useDispatch, useSelector } from 'react-redux';
 import Pagination from '../../../../Company/Pagination';
 import { girls_Chappal_Get_Failure_Action, girls_Chappal_Get_Request_Action, girls_Chappal_Get_Success_Action } from '../../../../Redux/Kids/Girls/action';
+import whatsApp from "../../../../img/icons8-whatsapp-48.png"
+
+
 
 const Girlchappal = () => {
 
@@ -18,7 +21,7 @@ const Girlchappal = () => {
 
   const getChappal = ()=>{
     dispatch(girls_Chappal_Get_Request_Action())
-    axios.get(`http://localhost:8000/kids_girls_chppal`).then((res)=>{
+    axios.get(`https://shop-backend-noq9.onrender.com/kids_girls_chppal`).then((res)=>{
       console.log(res.data)
       dispatch(girls_Chappal_Get_Success_Action(res.data))
     }).catch((err)=>{
@@ -49,7 +52,8 @@ const Girlchappal = () => {
       return   <div className='mainChappalInnerViv' key={el.id}> 
              <img src={el.image} alt="" />
                <h4>{`Brand : ${el.brand}`}</h4>
-               <p>{`Price : ${el.price}`}</p>           
+               <p>{`Price : ${el.price}`}</p>  
+               <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>         
          </div>       
    })
     }
