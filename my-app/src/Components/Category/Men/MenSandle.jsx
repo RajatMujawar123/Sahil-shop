@@ -58,7 +58,7 @@ import whatsApp from "../../../img/icons8-whatsapp-48.png"
                 <img src={el.image} alt="" />
                   <h4>{`Brand : ${el.brand}`}</h4>
                   <p>{`Price : ${el.price}`}</p>  
-                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>         
+                  <div id='app'> <a href='https://wa.me/919823111057?text=el.id'> <img  src={whatsApp} alt="" />  </a>  </div>         
             </div>       
       })
     }

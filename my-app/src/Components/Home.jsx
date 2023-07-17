@@ -9,11 +9,13 @@ import spark from     '../img/Sparx.png'
 
 import "../style/home.css"
 import { Link } from 'react-router-dom'
+import Navbar from './Navbar'
 
 const Home = () => {
     return (
         <>
-            <div className='container'>
+       
+            <div className='container' >
                 <div className='innerDiv'>
                     <Link to="/mens">
                         <img src={mens} alt="" />
@@ -36,6 +38,7 @@ const Home = () => {
                 </div>
 
             </div>
+            
             
             <div className='company'>
                 <div className='logo'>

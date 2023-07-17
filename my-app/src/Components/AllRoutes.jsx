@@ -18,6 +18,7 @@ import Girlchappal from './Category/Kid/Girl/Girlchappal'
 import Boyschappal from './Category/Kid/Boy/Boychappal'
 import Boyshoes from './Category/Kid/Boy/Boyshoes'
 import BoysSandal from './Category/Kid/Boy/BoySandal'
+import Navbar from './Navbar'
 
 
 const AllRoutes = () => {
@@ -25,6 +26,7 @@ const AllRoutes = () => {
     <Routes>
        <Route path='*' element={<h1>Page Not Found</h1>}/>
 
+       <Route path='/navbar' element={<Navbar/>}/>
         <Route path='/' element={<Home/>}/>
         <Route path='/kids' element={<Kids/>}/>
         <Route path='/mens' element={<Mens/>}/>
