@@ -61,7 +61,7 @@ import Pagination from '../../../Company/Pagination'
 <div id='mainChappalDiv'> 
   {
     currentProducts.length > 0 && currentProducts.map((el) => {
-      const message = `Hi, I'm interested in the following product:${el.image}, ${el.brand}, Price: ${el.price}`;
+      const message = `Hi, I'm interested in the following product: Image: ${el.image}, Brand: ${el.brand}, Price: ${el.price}`;
       const encodedMessage = encodeURIComponent(message);
       const whatsappLink = `https://wa.me/919823111057?text=${encodedMessage}`;
 
