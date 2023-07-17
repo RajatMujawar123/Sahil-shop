@@ -47,17 +47,27 @@ import whatsApp from "../../../img/icons8-whatsapp-48.png"
     <div><h1>Shoes</h1></div>
 
     <div id='mainChappalDiv'> 
-    {
-      currentProducts.length > 0 && currentProducts.map((el)=>{
-         return   <div className='mainChappalInnerViv' key={el.id}> 
-                <img src={el.image} alt="" />
-                  <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>    
-                  <div id='app'> <a href='https://wa.me/919823111057?text=hi...'> <img  src={whatsApp} alt="" />  </a>  </div>       
-            </div>       
-      })
-    }
-     </div>
+  {
+    currentProducts.length > 0 && currentProducts.map((el) => {
+      const message = `Hi, I'm interested in the following product:${el.image}, ${el.brand}, Price: ${el.price}`;
+      const encodedMessage = encodeURIComponent(message);
+      const whatsappLink = `https://wa.me/919823111057?text=${encodedMessage}`;
+
+      return (
+        <div className='mainChappalInnerViv' key={el.id}> 
+          <img src={el.image} alt="" />
+          <h4>{`Brand: ${el.brand}`}</h4>
+          <p>{`Price: ${el.price}`}</p>  
+          <div id='app'>
+            <a href={whatsappLink}>
+              <img src={whatsApp} alt="" />
+            </a>
+          </div>
+        </div>
+      );
+    })
+  }
+</div>
 
      {
       isloading && <div className="loader">Loading...</div>
