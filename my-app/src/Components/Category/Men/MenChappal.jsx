@@ -45,18 +45,7 @@ import Pagination from '../../../Company/Pagination'
     <div> 
     <div>Chappal</div>
 
-    {/* <div id='mainChappalDiv'> 
-    {
-      currentProducts.length > 0 && currentProducts.map((el)=>{
-         return   <div className='mainChappalInnerViv' key={el.id}> 
-                <img src={el.image} alt="" />
-                  <h4>{`Brand : ${el.brand}`}</h4>
-                  <p>{`Price : ${el.price}`}</p>  
-                  <div id='app'> <a href='https://wa.me/919823111057?text=hii'> <img  src={whatsApp} alt="" />  </a>  </div>
-            </div>       
-      })
-    }
-     </div> */}
+   
 
 <div id='mainChappalDiv'> 
   {
