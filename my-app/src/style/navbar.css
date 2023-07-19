@@ -7,23 +7,26 @@
     position: fixed;
     width: 100%;
     top: 0;
-    height: 60px;
+    height: 70px;
     justify-content: space-around;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     background-color: aliceblue;
 }
-.navbar div{
-     /* border: solid green 1px;  */
+.navDiv{
+      /* border: solid green 1px;    */
     width: 38%;
     display: flex;
   align-items: center;
+ 
 }
 
 
 #logo{
-    width: 30%;
-    height: 85%;
+    /* border: solid red 1px; */
+    width: 150px;
+    height: 50px;
     margin-left: 80px;
+justify-content: center;
 }
 
 #category{
@@ -38,6 +41,7 @@ input{
 }
 #searchLogo{
     /* border :  solid red 1px; */
+    margin-left: -20px;
     height: 30px;
     width: 30px;
 }
@@ -58,15 +62,14 @@ input{
 @media only screen and (max-width: 600px) {
     /* Adjust the styles for screens with a maximum width of 600px */
 
-   .navbar div{
-         
+   .navDiv{
         display: flex;
         justify-content: center;
        
 }
 #logo{
     /* border: solid green 1px;  */
-    margin-left: -40px;
+    margin-left: 0px;
     width: 70%;
     height: 85%;
 }
@@ -78,6 +81,12 @@ input{
     height: 40%;
     border-radius: 8px;
     width: 80%;
+}
+#searchLogo{
+    margin-left: 0px;
+}
+.navbar{
+    height: 60px;
 }
 
   }

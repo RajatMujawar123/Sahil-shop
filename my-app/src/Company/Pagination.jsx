@@ -29,7 +29,8 @@ const  Pagination = ({ currentPage, totalPages, onPageChange }) => {
         {">"}
       </button>
     </div>
-    <div><h3>Total Pages : {totalPages}</h3></div>
+
+    <div className="pages"><h3>Total Pages : {totalPages}</h3></div>
     </div>
   );
 };

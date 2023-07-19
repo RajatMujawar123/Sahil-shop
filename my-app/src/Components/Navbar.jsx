@@ -7,14 +7,19 @@ const Navbar = () => {
   return (
     <div id='fixed'>
       <div className='navbar'>
-        <div>
+     
+        <div className='navDiv'>
+        <Link  to="/">
         <img id="logo" src="https://www.zafcollection.com/static/media/ZAFLOGO.d188428ce1093cd1a4ac.png" alt="" />
-        </div>
+        </Link>
+       </div>
+        
 
-        <div id='category' >
+        <div className='navDiv' id='category' >
           <Link id="link" to="/"><h3 className='content'>Home</h3></Link>
           <h3 className='content'>Trending</h3>
-          <h3 className='content'>Category</h3>
+          <Link to="/admin"> <button>Admin</button>  </Link>
+          
           <input type="text" placeholder='Search' />
           <label ><FcSearch id='searchLogo'/></label>
         </div>

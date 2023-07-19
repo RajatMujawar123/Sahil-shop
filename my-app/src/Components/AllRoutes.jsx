@@ -19,12 +19,16 @@ import Boyschappal from './Category/Kid/Boy/Boychappal'
 import Boyshoes from './Category/Kid/Boy/Boyshoes'
 import BoysSandal from './Category/Kid/Boy/BoySandal'
 import Navbar from './Navbar'
+import Admin from '../Company/AdminData'
+import AdminData from '../Company/AdminData'
 
 
 const AllRoutes = () => {
   return (
     <Routes>
        <Route path='*' element={<h1>Page Not Found</h1>}/>
+
+       <Route path='/admin' element={<AdminData/>}/>
 
        <Route path='/navbar' element={<Navbar/>}/>
         <Route path='/' element={<Home/>}/>

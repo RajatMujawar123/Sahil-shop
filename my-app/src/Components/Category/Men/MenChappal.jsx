@@ -60,7 +60,7 @@ import Pagination from '../../../Company/Pagination'
           <h4>{`Brand: ${el.brand}`}</h4>
           <p>{`Price: ${el.price}`}</p>  
           <div id='app'>
-            <a href={whatsappLink}>
+            <a href={whatsappLink} >
               <img src={whatsApp} alt="" />
             </a>
           </div>

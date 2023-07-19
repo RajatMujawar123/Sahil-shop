@@ -10,7 +10,7 @@ function App() {
   return (
     <>   
       <div><Navbar/></div>
-    <div className="App" style={{marginTop: "120px"}}>
+    <div className="App" style={{marginTop: "120px", marginBottom:"80px"}}>
      
       <AllRoutes/>
       {/* <Footer/> */}
