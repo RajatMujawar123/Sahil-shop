@@ -42,6 +42,8 @@ import whatsApp from "../../../img/icons8-whatsapp-48.png"
 
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
+  
+
   return (
     <div>
     <div><h1>Shoes</h1></div>
@@ -78,7 +80,7 @@ import whatsApp from "../../../img/icons8-whatsapp-48.png"
       currentPage={currentPage}
       totalPages={Math.ceil(mens_shoes_data.length / productsPerPage)}
       onPageChange={paginate}
-
+   
       />
      }
     </div>

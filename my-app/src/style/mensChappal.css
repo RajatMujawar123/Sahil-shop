@@ -45,6 +45,16 @@
 
 
 
+.button-5.active {
+  color: #fff; /* Change to the desired color for the active page */
+  background-color: #333; /* Change to the desired background color for the active page */
+  /* Add any additional styling for the active page here */
+}
+
+
+
+
+
 /* Responsive Styles */
 @media only screen and (max-width: 768px) {
     #mainChappalDiv {
@@ -104,7 +114,7 @@
   justify-content: center;
   line-height: 1.25;
   margin: 0;
-  min-height: 3rem;
+  min-height: 2rem;
   padding: calc(.875rem - 1px) calc(1.5rem - 1px);
   position: relative;
   text-decoration: none;
@@ -113,7 +123,18 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   vertical-align: baseline;
-  width: auto;
+  width: 10px;
+  height: 10px;
+  
+}
+
+@media (max-width: 768px) {
+  .button-5 {
+    /* Styles for screens smaller than 768px */
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 14px;
+  }
 }
 
 .button-5:hover,
