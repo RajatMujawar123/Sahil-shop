@@ -31,6 +31,7 @@ export const reducer = (state = initialState, {type,payload}) =>{
        case WOMENS_SANDAL_GET_FAILUE : 
            return {...state, isloading:false, isError:true }   
 
+           
         //Women Shoes data
         case WOMENS_SHOES_GET_REQUEST : 
         return {...state, isloading: true}
